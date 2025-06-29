@@ -154,9 +154,4 @@ with SyncCrazyflie(URI) as scf:
 For more detailed information, refer to the full PDF document on working with Crazyflies on Ubuntu.
 
 # Supplimental Repository
-1. https://github.com/ArghyaChatterjee/natnet_ros_cpp/
-2. https://github.com/bitcraze/aideck-gap8-examples
-3. https://github.com/bitcraze/crazyflie-clients-python
-4. https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/api/cflib/positioning/motion_commander/
-
-Speicial thanks to Raymond Stevens for providing some of his documents & guidance during the project.
+Supplimentary repositories include [natnet ros](https://github.com/ArghyaChatterjee/natnet_ros_cpp/), [aideck-gap8](https://github.com/bitcraze/aideck-gap8-examples), [crazyflie-clients-python](https://github.com/bitcraze/crazyflie-clients-python), [crazyflie-motion-commander](https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/api/cflib/positioning/motion_commander/). Speicial thanks to Raymond Stevens for providing some of his documents & guidance during the project.
