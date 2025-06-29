@@ -1,20 +1,18 @@
 # crazyflie ros
-This repository is part of my class project (Aerial Robotics - EEL 6606) at Intelligent Systems and Robotics department in UWF.
+This repository is part of my class project (Aerial Robotics - EEL 6606) at Intelligent Systems and Robotics department in UWF. All the experiments were performed & executed in python & ROS. 
 
 <!-- First Row -->
 <p align="center">
-  <img src="media/crazyflie.jpeg" width="45%" />
+  <img src="media/crazyflie.jpeg" width=400" />
 </p>
 
-All the experiments were performed & executed in python & ROS. 
 
 ## Crazyflie Position Tracking with Opti Track
 The diagram visually represents a motion capture network setup featuring a central network switch connected to two PCs. One PC operates on Ubuntu with ROS, and the other runs Windows with Motive software. Seven OptiTrack Prime 17W cameras are connected to the network switch, indicating an expanded motion capture setup compared to the original four cameras. The connections are displayed through a LAN, with dotted lines to the PCs and solid lines to the cameras, illustrating a professional and balanced network configuration suitable for motion capture applications for position tracking of the crazyflie.
 
 <!-- First Row -->
 <p align="center">
-  <img src="media/optitrack.png" width="58%" />
-  <img src="media/optitrack1.png" width="32%" /> 
+  <img src="media/optitrack.png" width="600" />
 </p>
 
 ## Precision Landing with Crazyflie
